@@ -1,4 +1,4 @@
 # bp
 Blood Pressure Calculator
-Simple project:
+Simple project for CICD work.
 ASP.Net Core
